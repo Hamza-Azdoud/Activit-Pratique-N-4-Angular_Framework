@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "t-short",
+      "price": 750,
+      "checked": false
+    },
+    {
+      "id": "2",
+      "name": "short",
+      "price": 1535,
+      "checked": true
+    },
+    {
+      "id": "3",
+      "name": "jacket",
+      "price": 2600,
+      "checked": true
+    },
+    {
+      "id": "4",
+      "name": "cab",
+      "price": "550",
+      "checked": true
+    },
+    {
+      "id": "5",
+      "name": "sandal",
+      "price": "690",
+      "checked": true
+    },
+    {
+      "id": "6",
+      "name": "shoes",
+      "price": "1420",
+      "checked": "false"
+    }
+  ]
+}
